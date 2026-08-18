@@ -1,23 +1,23 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:5B5BD6,100:8B5CF6&height=200&section=header&text=Huaye%20Ding&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20ECNU%20%C2%B7%20Java%20%2F%20Go%20%2F%20Python&descAlignY=64&descSize=16&fontColor=EEEEFC">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A4AC0,50:5B5BD6,100:7F77DD&height=200&section=header&text=Huaye%20Ding&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20ECNU%20%C2%B7%20Java%20%2F%20Go%20%2F%20Python&descAlignY=64&descSize=16&fontColor=FFFFFF">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:5B5BD6,100:8B5CF6&height=200&section=header&text=Huaye%20Ding&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20ECNU%20%C2%B7%20Java%20%2F%20Go%20%2F%20Python&descAlignY=64&descSize=16&fontColor=EEEEFC" alt="header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81%2C50:5B5BD6%2C100:8B5CF6&amp;height=200&amp;section=header&amp;text=Huaye%20Ding&amp;fontSize=44&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%C2%B7%20ECNU%20%C2%B7%20Java%20%2F%20Go%20%2F%20Python&amp;descAlignY=64&amp;descSize=16&amp;fontColor=EEEEFC">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4A4AC0%2C50:5B5BD6%2C100:7F77DD&amp;height=200&amp;section=header&amp;text=Huaye%20Ding&amp;fontSize=44&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%C2%B7%20ECNU%20%C2%B7%20Java%20%2F%20Go%20%2F%20Python&amp;descAlignY=64&amp;descSize=16&amp;fontColor=FFFFFF">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81%2C50:5B5BD6%2C100:8B5CF6&amp;height=200&amp;section=header&amp;text=Huaye%20Ding&amp;fontSize=44&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%C2%B7%20ECNU%20%C2%B7%20Java%20%2F%20Go%20%2F%20Python&amp;descAlignY=64&amp;descSize=16&amp;fontColor=EEEEFC" alt="header" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=%F0%9F%8F%97%EF%B8%8F+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+RabbitMQ;%F0%9F%9A%80+%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4;%F0%9F%94%8D+%E4%BF%AE+bug+%E5%85%88%E6%89%BE%E6%A0%B9%E5%9B%A0%EF%BC%8C%E4%B8%8D%E7%8C%9C">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=5B5BD6&center=true&vCenter=true&width=640&lines=%F0%9F%8F%97%EF%B8%8F+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+RabbitMQ;%F0%9F%9A%80+%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4;%F0%9F%94%8D+%E4%BF%AE+bug+%E5%85%88%E6%89%BE%E6%A0%B9%E5%9B%A0%EF%BC%8C%E4%B8%8D%E7%8C%9C">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=%F0%9F%8F%97%EF%B8%8F+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+RabbitMQ;%F0%9F%9A%80+%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4;%F0%9F%94%8D+%E4%BF%AE+bug+%E5%85%88%E6%89%BE%E6%A0%B9%E5%9B%A0%EF%BC%8C%E4%B8%8D%E7%8C%9C" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=%F0%9F%8F%97%EF%B8%8F+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+RabbitMQ;%F0%9F%9A%80+%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4;%F0%9F%94%8D+%E4%BF%AE+bug+%E5%85%88%E6%89%BE%E6%A0%B9%E5%9B%A0%EF%BC%8C%E4%B8%8D%E7%8C%9C">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=5B5BD6&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=%F0%9F%8F%97%EF%B8%8F+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+RabbitMQ;%F0%9F%9A%80+%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4;%F0%9F%94%8D+%E4%BF%AE+bug+%E5%85%88%E6%89%BE%E6%A0%B9%E5%9B%A0%EF%BC%8C%E4%B8%8D%E7%8C%9C">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=%F0%9F%8F%97%EF%B8%8F+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+RabbitMQ;%F0%9F%9A%80+%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4;%F0%9F%94%8D+%E4%BF%AE+bug+%E5%85%88%E6%89%BE%E6%A0%B9%E5%9B%A0%EF%BC%8C%E4%B8%8D%E7%8C%9C" alt="Typing SVG" />
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JJ20LOVE&label=Profile%20Views&color=5B5BD6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/School-ECNU-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white" alt="ECNU" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infra-A3BE8C?style=flat-square&logo=statuspage&logoColor=white" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=JJ20LOVE&amp;label=Profile%20Views&amp;color=5B5BD6&amp;style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/School-ECNU-8B5CF6?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="ECNU" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infra-A3BE8C?style=flat-square&amp;logo=statuspage&amp;logoColor=white" alt="Focus" />
 </div>
 
 ---
@@ -100,9 +100,9 @@ Java 实现的评测服务，另有一版 [Go 后端](https://github.com/JJ20LOV
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJ20LOVE&hide_border=true&bg_color=1C1C1F&color=D8D8E0&line=A78BFA&point=5B5BD6&area_color=8B5CF6&area=true&custom_title=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%8F%90%E4%BA%A4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJ20LOVE&hide_border=true&bg_color=FCFCFD&color=5C5C66&line=5B5BD6&point=7F77DD&area_color=A78BFA&area=true&custom_title=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%8F%90%E4%BA%A4">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ20LOVE&hide_border=true&bg_color=1C1C1F&color=D8D8E0&line=A78BFA&point=5B5BD6&area_color=8B5CF6&area=true&custom_title=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%8F%90%E4%BA%A4" width="100%" alt="Activity Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJ20LOVE&amp;hide_border=true&amp;bg_color=1C1C1F&amp;color=D8D8E0&amp;line=A78BFA&amp;point=5B5BD6&amp;area_color=8B5CF6&amp;area=true&amp;custom_title=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%8F%90%E4%BA%A4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJ20LOVE&amp;hide_border=true&amp;bg_color=FCFCFD&amp;color=5C5C66&amp;line=5B5BD6&amp;point=7F77DD&amp;area_color=A78BFA&amp;area=true&amp;custom_title=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%8F%90%E4%BA%A4">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ20LOVE&amp;hide_border=true&amp;bg_color=1C1C1F&amp;color=D8D8E0&amp;line=A78BFA&amp;point=5B5BD6&amp;area_color=8B5CF6&amp;area=true&amp;custom_title=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%8F%90%E4%BA%A4" width="100%" alt="Activity Graph" />
 </picture>
 
 </div>
@@ -122,8 +122,8 @@ Java 实现的评测服务，另有一版 [Go 后端](https://github.com/JJ20LOV
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:5B5BD6,100:312E81&height=120&section=footer&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:5B5BD6,100:4A4AC0&height=120&section=footer&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:5B5BD6,100:312E81&height=120&section=footer&animation=fadeIn" alt="footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6%2C50:5B5BD6%2C100:312E81&amp;height=120&amp;section=footer&amp;animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F77DD%2C50:5B5BD6%2C100:4A4AC0&amp;height=120&amp;section=footer&amp;animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6%2C50:5B5BD6%2C100:312E81&amp;height=120&amp;section=footer&amp;animation=fadeIn" alt="footer" />
   </picture>
 </div>
