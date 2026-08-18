@@ -5,9 +5,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&amp;weight=600&amp;size=28&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%81%E5%8D%8E%E7%83%A8;%F0%9F%8F%97%EF%B8%8F%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6;%E2%9A%99%EF%B8%8F%20Spring%20Boot%20%C2%B7%20MySQL%20%C2%B7%20Redis%20%C2%B7%20RabbitMQ;%F0%9F%9A%80%20%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&amp;weight=600&amp;size=28&amp;pause=1200&amp;color=5B5BD6&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%81%E5%8D%8E%E7%83%A8;%F0%9F%8F%97%EF%B8%8F%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6;%E2%9A%99%EF%B8%8F%20Spring%20Boot%20%C2%B7%20MySQL%20%C2%B7%20Redis%20%C2%B7%20RabbitMQ;%F0%9F%9A%80%20%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&amp;weight=600&amp;size=28&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%81%E5%8D%8E%E7%83%A8;%F0%9F%8F%97%EF%B8%8F%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6;%E2%9A%99%EF%B8%8F%20Spring%20Boot%20%C2%B7%20MySQL%20%C2%B7%20Redis%20%C2%B7%20RabbitMQ;%F0%9F%9A%80%20%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&amp;weight=600&amp;size=28&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%81%E5%8D%8E%E7%83%A8;%F0%9F%8F%97%EF%B8%8F%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6;%E2%9A%99%EF%B8%8F%20Spring%20Boot%20%C2%B7%20MySQL%20%C2%B7%20Redis%20%C2%B7%20RabbitMQ;%F0%9F%A4%96%20%E4%B9%9F%E5%9C%A8%E5%86%99%20Agent%EF%BC%9ALangGraph%20%C2%B7%20Vercel%20AI%20SDK;%F0%9F%9A%80%20%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&amp;weight=600&amp;size=28&amp;pause=1200&amp;color=5B5BD6&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%81%E5%8D%8E%E7%83%A8;%F0%9F%8F%97%EF%B8%8F%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6;%E2%9A%99%EF%B8%8F%20Spring%20Boot%20%C2%B7%20MySQL%20%C2%B7%20Redis%20%C2%B7%20RabbitMQ;%F0%9F%A4%96%20%E4%B9%9F%E5%9C%A8%E5%86%99%20Agent%EF%BC%9ALangGraph%20%C2%B7%20Vercel%20AI%20SDK;%F0%9F%9A%80%20%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4">
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&amp;weight=600&amp;size=28&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%F0%9F%91%8B%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%81%E5%8D%8E%E7%83%A8;%F0%9F%8F%97%EF%B8%8F%20%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6;%E2%9A%99%EF%B8%8F%20Spring%20Boot%20%C2%B7%20MySQL%20%C2%B7%20Redis%20%C2%B7%20RabbitMQ;%F0%9F%A4%96%20%E4%B9%9F%E5%9C%A8%E5%86%99%20Agent%EF%BC%9ALangGraph%20%C2%B7%20Vercel%20AI%20SDK;%F0%9F%9A%80%20%E4%BB%8E%E5%86%99%E6%8E%A5%E5%8F%A3%E5%88%B0%E7%AE%A1%E5%8F%8C%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4" alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -36,6 +36,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -48,7 +54,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[博远信息技术社官网](https://github.com/Boyuan-IT-Club/Official_Web_Backend)**
+#### [博远信息技术社官网](https://github.com/Boyuan-IT-Club/Official_Web_Backend)
 
 华东师范大学博远信息技术社官网的后端与部署。招新面试全流程：投简历 → 填部门志愿与时间窗 → 算法自动分配面试场次，并深度集成飞书开放平台。
 
@@ -57,17 +63,47 @@
 - 双机集群滚动部署 + 健康检查
 - 面试评价用 Yjs 做 CRDT 多人协同
 
+`Java 17` `Spring Boot 3` `MySQL` `Redis` `RabbitMQ`
+
 ![Stars](https://img.shields.io/github/stars/Boyuan-IT-Club/Official_Web_Backend?style=flat-square&color=5B5BD6)
 ![Last commit](https://img.shields.io/github/last-commit/Boyuan-IT-Club/Official_Web_Backend?style=flat-square&color=8B5CF6)
 
 </td>
 <td width="50%" valign="top">
 
-**[TeamMatching](https://github.com/JJ20LOVE/TeamMatching_Backend)**
+#### 🤖 [赛博街溜子 cyber-stray](https://github.com/Zewang0217/cyber-stray)
 
-大学生竞赛组队匹配平台。[后端](https://github.com/JJ20LOVE/TeamMatching_Backend)（Java）+ [前端](https://github.com/JJ20LOVE/TeamMatching_Frontend)（Vue）+ [匹配 Agent](https://github.com/JJ20LOVE/TeamMatching_Agent)（Python）。
+一只在互联网上游荡的自动化信息猎犬。我在其中修了**反思引擎**的素材收集类型不匹配，以及 **PushGate** 兴趣区分度过低的问题；另把 data 目录统一到 `packages/agent/data` 并对齐推送历史契约。
 
-**[GeoEvalAI](https://github.com/JJ20LOVE/GeoEvalAI)**
+- [#66](https://github.com/Zewang0217/cyber-stray/pull/66) fix(memory) 反思引擎 + PushGate
+- [#55](https://github.com/Zewang0217/cyber-stray/pull/55) 统一 data 目录与推送历史契约
+
+`TypeScript` `Vercel AI SDK` `DeepSeek` `Readability`
+
+![Last commit](https://img.shields.io/github/last-commit/Zewang0217/cyber-stray?style=flat-square&color=8B5CF6)
+![My PRs](https://img.shields.io/badge/merged%20PRs-2-3FB950?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [TeamMatching Agent](https://github.com/JJ20LOVE/TeamMatching_Agent)
+
+组队平台的 Python 智能助手服务：自然语言项目搜索、智能匹配解释、用户画像解读。走 Spring Cloud Gateway 统一入口，与 Java 主站解耦。
+
+`LangGraph` `LangChain` `FastAPI` `Pydantic v2`
+
+![Last commit](https://img.shields.io/github/last-commit/JJ20LOVE/TeamMatching_Agent?style=flat-square&color=8B5CF6)
+
+</td>
+<td width="50%" valign="top">
+
+#### [TeamMatching 平台](https://github.com/JJ20LOVE/TeamMatching_Backend)
+
+大学生竞赛组队匹配平台，[后端](https://github.com/JJ20LOVE/TeamMatching_Backend)（Java）+ [前端](https://github.com/JJ20LOVE/TeamMatching_Frontend)（Vue）。
+
+#### [GeoEvalAI](https://github.com/JJ20LOVE/GeoEvalAI)
 
 地理作业智能批改，Java 评测服务，另有一版 [Go 后端](https://github.com/JJ20LOVE/geographyHomework_marking_backened)。
 
